@@ -1,0 +1,12 @@
+#include<stdio.h> 
+
+int main() {
+    int tom;
+    int tom;
+    int error_code;
+    'j' --> a character 
+    print ("hello i am learning c with harry ")
+    return 0;
+
+}
+
